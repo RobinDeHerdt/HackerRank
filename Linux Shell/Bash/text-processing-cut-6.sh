@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cut -c13-
+cut -c 13-

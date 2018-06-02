@@ -7,5 +7,5 @@ do
     # echo ${line:2:1}
 
     # This however, does work for all test cases.
-    echo $line | cut -c3
+    echo $line | cut -c 3
 done
