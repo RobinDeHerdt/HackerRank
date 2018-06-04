@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sed -e 's/the/tool/1'
+sed -e 's/the /this /1'
